@@ -1,4 +1,5 @@
-a= 10
-b = 20 
+a = int(input("enter a"))
+
+b = int(input("enter b"))
 sum = a+b
 print(sum)
